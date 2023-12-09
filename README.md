@@ -7,7 +7,11 @@ The project allows users to convert HTML files to PDFs and submit them along wit
 
 To deploy, run this application locally, follow these steps:
 1. **Clone the Repository:**
-2. Install Dependencies
+2. Initialize the Project;
+```bash
+  npm init
+```
+4. Install Dependencies
 ```bash
   npm install
 ```

@@ -26,7 +26,7 @@ Create a file called .env in the main folder.       Inside, write;
 ```
 5. Or simply, after downloading the folders and installing all dependencies, run node.js server to execute your code;
 ```bash
-  node server
+  node script
 ```
 ## Documentation
 
